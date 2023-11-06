@@ -118,7 +118,7 @@ if (el) {
   });
 
   typewriter
-    .typeString("we handmake app")
+    .typeString("we handmake apps")
     .pauseFor(1000)
     .deleteAll()
     .typeString("we consult to help your business succeed")
